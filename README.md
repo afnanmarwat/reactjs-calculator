@@ -1,2 +1,4 @@
 # reactjs-calculator
-this is my reactjs project
+this is my reactjs project<br>
+Author afnan-marwatgit 
+
